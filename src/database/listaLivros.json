@@ -1,0 +1,19 @@
+{
+  "quantidade": 2,
+  "livros": [
+    {
+      "nome": "As ras",
+      "paginas": 496,
+      "autor": "Mo Yan",
+      "modo": "kindle",
+      "_isbn": "9788535926347"
+    },
+    {
+      "nome": "Filhos de Sangue e Osso",
+      "paginas": 525,
+      "autor": "Tomi Adeyemi",
+      "modo": "kindle",
+      "_isbn": "9788568263730"
+    }
+  ]
+}
